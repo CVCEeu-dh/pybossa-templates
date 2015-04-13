@@ -1,0 +1,6 @@
+{
+    "name": "Date Discovery",
+    "short_name": "datediscovery",
+    "description": "Date pattern recognition validation",
+    "question": "Do you rekognize the date value?"
+}
